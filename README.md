@@ -2,7 +2,7 @@
 
 - Estou estudando no [Alura](https://www.alura.com.br) 
 - Me pergunte sobre cavalos 🐴
-- Estou aprendendo diversas formas de programação simples no Scratch, Java Script e GitHub 🖥️
+- Estou aprendendo diversas formas de programação no Scratch, Java Script e GitHub 🖥️
 - 😄 Pronomes: ela/dela
 - Mídia social📱: @daluzeduarda_
 
